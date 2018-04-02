@@ -1,0 +1,4 @@
+JARS:
+https://commons.apache.org/proper/commons-logging/download_logging.cgi
+https://repo.spring.io/release/org/springframework/spring/3.2.0.RELEASE/
+https://repo.spring.io/release/org/springframework/spring/4.0.4.RELEASE/
